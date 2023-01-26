@@ -1,6 +1,6 @@
 <div align="center"> 
-  Hi there 👋.
-  <br/> I am Rui Qiu, a third year ECE student @ McMaster University.
+  <h3>Hi there 👋.</h3>
+  I am Rui Qiu, a third year ECE student @ McMaster University.
   <br/> Interested in Embedded System, IoT & AI and Web Development. 
   <br/>
   <br/>
