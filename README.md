@@ -1,16 +1,33 @@
-### Hi there 👋
+<p align="center"> Hi there 👋.
+  <br/> I am Rui Qiu, a third year ECE student @ McMaster University.
+  <br/> Interested in Embedded System, IoT & AI and Web Developer. 
+</p>
 
-<!--
-**rruiqiu/rruiqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" >
+  <a>
+<img src="https://github-readme-stats.vercel.app/api?username=rruiqiu&theme=tokyonight&hide=contribs,issues" />
+  </a>
+  
+  <a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rruiqiu&theme=tokyonight&layout=compact&exclude_repo=FreeRTOS,SPATIAL-MAPPING-USING-TIME-OF-FLIGHT"/> 
+  </a>
+</div>
+
+<br/>
+
+* 💻 I am currently studying FreeRTOS, TensorFlow, OpenCV, OS, ROS
+* 📖 I am currently reading "Three pieces operating system"
+* 🖼️ My personal website: https://ruiqiu.netlify.app
+* 📫 Connect me on linkedin: <a href="https://www.linkedin.com/in/rruiqiu/">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=blue&label=/in/rui-qiu"/>
+
+</a>
+
+
+⚡️ Other things about me-e-e:
+* ⛹️‍ Basketball Player (used tp play for my high school)
+* 🏸 Badminton Player (National second-level athlete)
+* 🏓 🏊 🏒 ⛸️ Sports lover!! Dm any sports u want to play with me.
+* ⛷️ 🪂 I have been always tried to do.
