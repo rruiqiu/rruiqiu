@@ -29,8 +29,8 @@
 </a>
 
 
-⚡️ Other things about me-e-e:
+⚡️ Other things about me~e~e:
 * ⛹️‍ Basketball Player (used tp play for my high school)
 * 🏸 Badminton Player (National second-level athlete)
 * 🏓 🏊 🏒 ⛸️ Sports lover!! Dm any sports u want to play with me.
-* ⛷️ 🪂 I have been always tried to do.
+* ⛷️ 🪂 Sports I have been always wanted to try.
