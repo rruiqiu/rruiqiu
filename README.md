@@ -14,7 +14,7 @@
   </a>
   
   <a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rruiqiu&theme=tokyonight&layout=compact&exclude_repo=FreeRTOS,SPATIAL-MAPPING-USING-TIME-OF-FLIGHT"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rruiqiu&theme=tokyonight&layout=compact&exclude_repo=FreeRTOS"/> 
   </a>
 </div>
 
