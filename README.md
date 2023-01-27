@@ -10,11 +10,11 @@
 
 <div align="center" >
   <a>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rruiqiu&theme=tokyonight&hide=contribs,issues" />
+<img src="https://github-readme-stats.vercel.app/api?username=rruiqiu&theme=tokyonight&hide=contribs,issues" />
   </a>
   
   <a>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rruiqiu&theme=tokyonight&layout=compact&exclude_repo=FreeRTOS"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rruiqiu&theme=tokyonight&layout=compact&exclude_repo=FreeRTOS"/> 
   </a>
 </div>
 
