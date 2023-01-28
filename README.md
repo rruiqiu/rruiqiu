@@ -32,5 +32,5 @@
 ⚡️ Other things about me~e~e:
 * ⛹️‍ Basketball Player (used tp play for my high school)
 * 🏸 Badminton Player (National second-level athlete)
-* 🏓 🏊 🏒 ⛸️ Sports lover!! Dm any sports u want to play with me.
+* 🏓 🏊 🏒 ⛸️ Sports lover!! Love playing any sports!!
 * ⛷️ 🪂 Sports I have been always wanted to try.
