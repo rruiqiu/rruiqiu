@@ -22,6 +22,7 @@
 
 * 💻 I am currently studying FreeRTOS, TensorFlow, OpenCV, OS, ROS
 * 📖 I am currently reading "Three pieces operating system"
+* ⭐ I am trying to build a multitasking operating system with an interactive shell
 * 🖼️ My personal website: https://ruiqiu.netlify.app
 * 📫 Connect me on linkedin: <a href="https://www.linkedin.com/in/rruiqiu/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=blue&label=/in/rui-qiu"/>
