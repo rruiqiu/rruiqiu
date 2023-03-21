@@ -14,7 +14,7 @@
   </a>
   
   <a>
-<img src="https://github-readme-stats-nine-sigma-89.vercel.app/api/top-langs/?username=rruiqiu&theme=tokyonight&layout=compact&exclude_repo=FreeRTOS, MAC_AEV"/> 
+<img src="https://github-readme-stats-nine-sigma-89.vercel.app/api/top-langs/?username=rruiqiu&theme=tokyonight&layout=compact&exclude_repo=FreeRTOS,MAC_AEV"/> 
   </a>
 </div>
 
