@@ -32,7 +32,7 @@
 </a>
 
 <details>
- <summary>⚡️Some Other things about me~e~e:</summary> 
+ <summary>⚡️Some Other things about me-:</summary> 
  
 * 🏡 Born in Shenzhen China and moved to Shanghai after I was 10.
 * 🏅 I love playing different kinds of sports!
