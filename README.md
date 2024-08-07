@@ -24,7 +24,7 @@
 
 * 💻 I found Linux is really interesting and I am currently learning OS!
 * 📖 I am currently reading "[xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2021/xv6/book-riscv-rev2.pdf)"
-* ⭐ I am planning to learn more backend and system designs when I am free.
+* ⭐ I am planning to learn more backend, system designs and cloud when I am free.
 * 🖼️ My personal website: https://www.richardqiu.me/ - in progress
 * 📫 Connect me on linkedin: <a href="https://www.linkedin.com/in/rruiqiu/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=blue&label=/in/rui-qiu"/>
