@@ -1,8 +1,8 @@
 <div> 
 <h3>Hi there 👋.</h3>
- <p>I am Rui(Richard) Qiu, a final year ECE student @ McMaster University. 
-   <br/>I am interested in low level computing, building scalable applications and making programs faster.
-   <br/> I am also an experienced Full Stack Web and Desktop application Developer. (React/Next,Flask/Fastapi,SQL/NoSQL,C#)  
+ <p>I am Rui(Richard) Qiu, a final year ECE student @ McMaster University. </p>
+<p>I am interested in low level computing, building scalable applications and making programs faster. </p>
+  <p> I am also an experienced Full Stack Web and Desktop application Developer. (React/Next,Flask/Fastapi,SQL/NoSQL,C#)   </p>
  </p>
 
   <br/>
