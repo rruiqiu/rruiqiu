@@ -40,3 +40,4 @@
 * ⛹️‍ I also played basketabll in high school and played for my school in my grade 11 and grade 12.
 * ⛷️ I tried my first time ski in last winter and fell really hard at the first day, learned how to stop at the next day and finally "expert" on the green lane! I really enjoy skiing and I am looking forward to challenge the blue lane this winter!
 * 🪂 I want to try sky diving at one day.
+* 💡 I can still remember the excitement when I lighted a small bulb with a battery and some wires when I am in grade 6 which is why I chose to study ECE.
