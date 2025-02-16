@@ -1,8 +1,8 @@
 
- <p align="center" >
-<samp>Hi there 👋. I am Richard Qiu, a final year ECE student @ McMaster University. </samp>   <br/> 
-<samp>I am interested in any aspects of software development and machine learning. </samp>  <br/> 
-</p>
+ <div align="center" >
+<h4><samp>Hi there 👋. I am Richard Qiu, a final year ECE student @ McMaster University. </samp> </h4> 
+<samp>I am interested in any aspects of software development and machine learning. </samp>  <br/> <br/>
+</div>
 
 * <samp>🖼️ My personal website: <a href="https://www.richardqiu.me"/>www.richardqiu.me</a></samp>
 * <samp>🦋 OOD lover, love clean and scalable code</samp>
