@@ -5,7 +5,7 @@
 </div>
 
 * <samp>🖼️ My personal website: <a href="https://www.richardqiu.me"/>www.richardqiu.me</a></samp>
-* <samp>🦋 OOD lover, love to write clean and scalable code</samp>
+* <samp>🦋 Love to write clean and scalable code</samp>
 * <samp>🖥️ Backend, Frontend, DevOps, Embedded, Hardware</samp>
 * <samp>📖 Passionate self-learner, coding for 8 years.</samp>
 * <samp>📫 Connect me on linkedin: <a href="https://www.linkedin.com/in/rruiqiu/">
