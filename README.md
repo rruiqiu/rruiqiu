@@ -1,6 +1,6 @@
 
  <div align="center" >
-<h4><samp>Hi there 👋. I am Richard Qiu, a final year ECE student @ McMaster University. </samp> </h4> 
+<h4><samp>Hi there 👋. I am Richard Qiu, a new grad ECE student @ McMaster University. </samp> </h4> 
 <samp>I am interested in any aspects of software development and machine learning. </samp>  <br/> <br/>
 </div>
 
@@ -8,6 +8,7 @@
 * <samp>🦋 Love to write clean and scalable code</samp>
 * <samp>🖥️ Backend, Frontend, DevOps, Embedded, Hardware</samp>
 * <samp>📖 Passionate self-learner, coding for 8 years.</samp>
+* <samp>🌐 Next study plan: Distributed Systems</samp>  
 * <samp>📫 Connect me on linkedin: <a href="https://www.linkedin.com/in/rruiqiu/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=blue&label=/in/rui-qiu"/></samp>
 
