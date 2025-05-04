@@ -1,7 +1,7 @@
 
  <div align="center" >
 <h4><samp>Hi there 👋. I am Richard Qiu, a new grad ECE student @ McMaster University. </samp> </h4> 
-<samp>I am interested in any aspects of software development and machine learning. </samp>  <br/> <br/>
+<samp>I am interested in building software applications and applying machine learning in practical scenarios. </samp>  <br/> <br/>
 </div>
 
 * <samp>🖼️ My personal website: <a href="https://www.richardqiu.me"/>www.richardqiu.me</a></samp>
