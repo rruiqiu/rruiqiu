@@ -8,7 +8,7 @@
 * <samp>🦋 Love to write clean and scalable code</samp>
 * <samp>🖥️ Backend, Frontend, DevOps, Embedded, Hardware</samp>
 * <samp>📖 Passionate self-learner, coding for 8 years.</samp>
-* <samp>🌐 Currently studying Distributed Systems</samp>  
+* <samp>🌐 Currently practicing my DSA and OOD skills, and also learning C# .NET Core.</samp>  
 * <samp>📫 Connect me on linkedin: <a href="https://www.linkedin.com/in/rruiqiu/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=blue&label=/in/rui-qiu"/></samp>
 
