@@ -6,9 +6,9 @@
 
 * <samp>🖼️ My personal website: <a href="https://www.richardqiu.me"/>www.richardqiu.me</a></samp>
 * <samp>🦋 Love to write clean and scalable code</samp>
-* <samp>🖥️ Backend, Frontend, DevOps, Embedded, Hardware</samp>
+* <samp>🖥️ Backend, Frontend, ML, Embedded, Hardware</samp>
 * <samp>📖 Passionate self-learner, coding for 8 years.</samp>
-* <samp>🌐 Currently practicing my DSA and OOD skills, and also learning C# ASP .NET Core.</samp>  
+* <samp>🌐 Currently practicing DSA and learning design patterns.</samp>  
 * <samp>📫 Connect me on linkedin: <a href="https://www.linkedin.com/in/rruiqiu/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=blue&label=/in/rui-qiu"/></samp>
 
